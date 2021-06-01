@@ -1,0 +1,3 @@
+- Las evidencias, la data inicial y los endpoints en postman estan en la carpeta entregables.
+- Se debe crear la base de datos en postman 'inventario' antes de ejecutar el backend.
+- Si se quiere agregar la data inicial, se ha de ejecutar el data.sql de la carpeta entregables.
